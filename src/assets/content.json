@@ -1,0 +1,67 @@
+{
+  "basic": {
+    "logo": "",
+    "name": "The Grounds of the City",
+    "description": "The Grounds of the City, the second outpost from the team behind The Grounds of Alexandria, is bringing soul back to the CBD with old-school service and charm. \n \nLocated in the heart of the CBD and bustling with activity, The Grounds of the City is tailor-made for a marvellous time; no matter the occasion.\n \nStart your day right as our baristas expertly serve up The Grounds house-roasted espresso and filter coffees, or end it in the best possible way and cosy in with our selection of cocktails and a dinner menu that features something for everyone. \n \nYou’ll find our coffee sommelier at The Barista’s Bar ready to take you through a tailored coffee experience, and our tea lady roaming the room with a trolley adorned with fresh coffee, our selection of ethically sourced teas and cakes.",
+    "openingHours": "Tuesday - Thursday\n\n7:00am - 9:00pm\n\n<p>Friday\n\n7:00am - 10:00pm\n\n</p><p>Saturday\n\n8:00am - 10:00pm\n\n</p><p>Sunday\n\n8:00am - 9:00pm\n\n</p><p>Monday \n\n7:00am - 5:00pm\n\n</p><p><em>*Please note, there is a 12% public holiday surcharge on all bills.</em>\n\n</p><p>Breakfast is served until 11:30am daily, followed by a Lunch &amp; Dinner menu from 11:45am until close, with a limited menu available between 3pm-5pm daily.\n\n</p><p>Special VIVID opening hours:\n\nMon 27th May: Until 9pm\nMon 3rd June: Until 9pm\nMon 10th June: Until 5pm</p>",
+    "rating": 4,
+    "banner": [
+      {
+        "uid": "-1",
+        "name": "xxx.png",
+        "status": "done",
+        "url": "https://resizer.otstatic.com/v2/photos/medium/25049454.jpg"
+      }
+    ]
+  },
+  "contact": {
+    "email": "resto@email.com",
+    "telephone": "(02) 9699 2235",
+    "address": "The Grounds of the City, 500 George St Sydney, AU-NSW  2000",
+    "country": "AU",
+    "website": "resto.com",
+    "location": "-33.910456, 151.194117"
+  },
+  "menus": {
+    "data": [
+      {
+        "title": "The Bakery Basket",
+        "description": "The Grounds continental selection of freshly baked pastries with house-made preserves, cultured butter and whipped mascarpone",
+        "picture": "",
+        "price": "20$",
+        "meal": "breakfast",
+        "dish": "main",
+        "isChefSpecial": true
+      },
+      {
+        "title": "Steak & Eggs* **",
+        "description": "seared fillet steak with sautéed mushrooms, onions, spinach, hash brown and chimichurri",
+        "picture": "",
+        "price": "26$",
+        "meal": "lunch",
+        "dish": "main",
+        "isChefSpecial": true
+      }
+    ]
+  },
+  "photos": {
+    "data": [
+      {
+        "uid": "-1",
+        "name": "xxx.png",
+        "status": "done",
+        "url": "https://resizer.otstatic.com/v2/photos/large/25915316.jpg"
+      }
+    ]
+  },
+  "reviews": {
+    "data": [
+      {
+        "author": "Kris",
+        "description": "We had a much more pleasant experience which was what bought us back again this time. However the quality of food we received had largely declined and the seating we were allocated was fairly tight between neighbouring tables (bearing in mind mum and I arent 'big' people) The pasta and fried squid we received was probably lukewarm at best when it arrived at our table and the fresh egg bucatini pasta from memory had a balance of pecorino cheese scent (this was the dish that introduced me to this type of cheese) and wasnt over powered by the truffle like it was this time round. Definitely not coming back. Not value for money or experience at all.",
+        "rating": 20,
+        "source": "opentable"
+      }
+    ]
+  }
+}
